@@ -1,0 +1,5 @@
+You: Xin chào bạn nha.
+noir: chào bạn, bạn khỏe không?
+You: tôi khỏe.
+You: bạn thì sao?
+noir: tôi rất khỏe, cảm ơn.

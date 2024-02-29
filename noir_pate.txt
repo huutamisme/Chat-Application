@@ -1,0 +1,5 @@
+pate: Xin chào bạn nha.
+You: chào bạn, bạn khỏe không?
+pate: tôi khỏe.
+pate: bạn thì sao?
+You: tôi rất khỏe, cảm ơn.

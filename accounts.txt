@@ -1,0 +1,7 @@
+admin;admin;admin
+noir;noir;noir
+pate;pate;pate
+teo;teo;teo
+ti;ti;ti
+tun;tun;tun
+ad;ad;ad
